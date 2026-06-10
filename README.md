@@ -1,5 +1,7 @@
 # LeetCode-Solutions
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7B93E&height=200&section=header&text=LeetCode%20Solutions&fontSize=50&fontAlignY=35&animation=fadeIn" />
+</p>
 Welcome to my LeetCode problem-solving repository. This repository contains my solutions to LeetCode problems as part of my Data Structures & Algorithms, SQL, and interview preparation journey.
 
 ## Repository Structure
